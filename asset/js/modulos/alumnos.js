@@ -36,7 +36,7 @@ $( document ).ready(function() {
           });
     });
     
-
+ 
     $("#listadoalumnos").jqxGrid(
         {
         width: '100%',            
